@@ -25,3 +25,5 @@ just reorder/rename the arguments to a function. Some example usages:
     power_again = verbose_power(base=_0_, exponent=_1_)
     power_again(3, 2) # returns 9
 ```
+
+But really, you can just use a simple lambda instead of my code, I am just creating a prettier syntax for that. Usually I would not actually use this module myself, though it would be nice if this syntax was integrated in the language.
